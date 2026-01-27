@@ -13,3 +13,5 @@
     - Project: Password Generator, Easy and Hard Mode (and FizzBuzz)
 - Day 6 - Beginner - Python Functions, lots of while loops and challenges.
     - Project: Maze Challenge on Task 7 (will have to come back on Day 15)
+- Day 7 - Beginner - Hangman
+    - Project: Hangman Game
