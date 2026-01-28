@@ -15,3 +15,5 @@
     - Project: Maze Challenge on Task 7 (will have to come back on Day 15)
 - Day 7 - Beginner - Hangman
     - Project: Hangman Game
+- Day 8 - Beginner - Function Parameters
+    - Project: Caesar Cipher  
