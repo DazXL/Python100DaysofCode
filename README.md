@@ -16,4 +16,6 @@
 - Day 7 - Beginner - Hangman
     - Project: Hangman Game
 - Day 8 - Beginner - Function Parameters
-    - Project: Caesar Cipher  
+    - Project: Caesar Cipher
+- Day 9 - Beginner - Dictionaries and Nesting
+    - Project: The Secret Auction
