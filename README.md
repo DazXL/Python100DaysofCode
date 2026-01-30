@@ -19,3 +19,5 @@
     - Project: Caesar Cipher
 - Day 9 - Beginner - Dictionaries and Nesting
     - Project: The Secret Auction
+- Day 10 - Beginner - Functions with Outputs
+    - Project: Calculator
