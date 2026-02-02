@@ -21,3 +21,5 @@
     - Project: The Secret Auction
 - Day 10 - Beginner - Functions with Outputs
     - Project: Calculator
+- Day 11 - Beginner - Capstone Project
+    - Project: Blackjack! (will comeback to refine the code later on)
