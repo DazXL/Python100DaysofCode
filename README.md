@@ -23,3 +23,5 @@
     - Project: Calculator
 - Day 11 - Beginner - Capstone Project
     - Project: Blackjack! (will comeback to refine the code later on)
+- Day 12 - Beginner - Scopes
+    - Project: Guess The Number
