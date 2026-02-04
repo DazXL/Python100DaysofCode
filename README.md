@@ -25,3 +25,5 @@
     - Project: Blackjack! (will comeback to refine the code later on)
 - Day 12 - Beginner - Scopes
     - Project: Guess The Number
+- Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
+    - There is no project to this day
