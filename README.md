@@ -27,3 +27,5 @@
     - Project: Guess The Number
 - Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
     - There is no project to this day
+- Day 14 - Beginner - Higher Lower Game Project
+    - Project: Higher Lower Game
