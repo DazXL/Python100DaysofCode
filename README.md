@@ -6,26 +6,28 @@
 - Day 2 - Beginner - Understanding Data types and how to Manipulate Strings
     - Project: Tip Calculator
 - Day 3 - Beginner - Control Flow and Logical Operators
-    - Project: Treasure Island
+  - Project: Treasure Island
 - Day 4 - Beginner - Randomisation and Python Lists
-    - Project: Rock Paper Scissors
+  - Project: Rock Paper Scissors
 - Day 5 - Beginner - Python Loops
-    - Project: Password Generator, Easy and Hard Mode (and FizzBuzz)
+  - Project: Password Generator, Easy and Hard Mode (and FizzBuzz)
 - Day 6 - Beginner - Python Functions, lots of while loops and challenges.
-    - Project: Maze Challenge on Task 7 (will have to come back on Day 15)
+  - Project: Maze Challenge on Task 7 (will have to come back on Day 15)
 - Day 7 - Beginner - Hangman
-    - Project: Hangman Game
+  - Project: Hangman Game
 - Day 8 - Beginner - Function Parameters
-    - Project: Caesar Cipher
+  - Project: Caesar Cipher
 - Day 9 - Beginner - Dictionaries and Nesting
-    - Project: The Secret Auction
+  - Project: The Secret Auction
 - Day 10 - Beginner - Functions with Outputs
-    - Project: Calculator
+  - Project: Calculator
 - Day 11 - Beginner - Capstone Project
-    - Project: Blackjack! (will comeback to refine the code later on)
+  - Project: Blackjack! (will comeback to refine the code later on)
 - Day 12 - Beginner - Scopes
-    - Project: Guess The Number
+  - Project: Guess The Number
 - Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
-    - There is no project to this day
+  - There is no project to this day
 - Day 14 - Beginner - Higher Lower Game Project
-    - Project: Higher Lower Game
+  - Project: Higher Lower Game
+- Day 15 - Intermediate - Local Development Environment Setup & The Coffee Machine
+  - Project: The Coffee Machine
