@@ -12,7 +12,7 @@
 - Day 5 - Beginner - Python Loops
   - Project: Password Generator, Easy and Hard Mode (and FizzBuzz)
 - Day 6 - Beginner - Python Functions, lots of while loops and challenges.
-  - Project: Maze Challenge on Task 7 (will have to come back on Day 15)
+  - Project: Maze Challenge on Task 7 (infinite loop is fixed!)
 - Day 7 - Beginner - Hangman
   - Project: Hangman Game
 - Day 8 - Beginner - Function Parameters

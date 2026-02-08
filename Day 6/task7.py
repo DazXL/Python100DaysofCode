@@ -8,7 +8,11 @@ def turn_right():
     turn_left()
 
 
-# This code, while it works, can cause an infinite loop in selected cases making Reeborg run in circles
+# solution to reeborg stop running in circles
+while front_is_clear():
+    move()
+
+
 # I will return to this code during day 15 of the challenge
 while not at_goal():
     if front_is_clear():
