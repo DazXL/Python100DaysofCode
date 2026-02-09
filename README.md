@@ -31,3 +31,5 @@
   - Project: Higher Lower Game
 - Day 15 - Intermediate - Local Development Environment Setup & The Coffee Machine
   - Project: The Coffee Machine
+- Day 16 - Intermediate - Object Oriented Programming (OOP)
+  - Project: OOP Coffee Machine
