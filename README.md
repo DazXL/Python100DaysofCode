@@ -33,3 +33,5 @@
   - Project: The Coffee Machine
 - Day 16 - Intermediate - Object Oriented Programming (OOP)
   - Project: OOP Coffee Machine
+- Day 17 - Intermediate - The Quiz Project and the Benefits of OOP
+  - Project: The Quiz Project
