@@ -35,3 +35,5 @@
   - Project: OOP Coffee Machine
 - Day 17 - Intermediate - The Quiz Project and the Benefits of OOP
   - Project: The Quiz Project
+- Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
+  - Project: The Hirst Painting Project 
