@@ -37,3 +37,5 @@
   - Project: The Quiz Project
 - Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
   - Project: The Hirst Painting Project 
+- Day 19 - Intermediate - Instances, State and Higher Order Functions
+  - Project: The Turtle Race
