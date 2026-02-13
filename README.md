@@ -39,3 +39,5 @@
   - Project: The Hirst Painting Project 
 - Day 19 - Intermediate - Instances, State and Higher Order Functions
   - Project: The Turtle Race
+- Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+  - Project: Snake Game Part 1 
