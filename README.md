@@ -40,4 +40,6 @@
 - Day 19 - Intermediate - Instances, State and Higher Order Functions
   - Project: The Turtle Race
 - Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
-  - Project: Snake Game Part 1 
+  - Project: Snake Game Part 1
+- Day 21 - Intermediate Build the Snake Game Part 2: Inheritance and List Slicing
+  - Project: Snake Game Part 2
