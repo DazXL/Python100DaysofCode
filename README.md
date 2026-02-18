@@ -43,3 +43,7 @@
   - Project: Snake Game Part 1
 - Day 21 - Intermediate Build the Snake Game Part 2: Inheritance and List Slicing
   - Project: Snake Game Part 2
+- Day 22 - Intermediate - Build Pong: The Famous Arcade Game
+  - Project: Pong
+- Day 23 - Intermediate - The Turtle Crossing Capstone Project
+  - Project: The Turtle Crossing Capstone Project
