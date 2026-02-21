@@ -47,3 +47,7 @@
   - Project: Pong
 - Day 23 - Intermediate - The Turtle Crossing Capstone Project
   - Project: The Turtle Crossing Capstone Project
+- Day 24 - Intermediate - Files, Directories and Paths
+  - Project: Snake Improved and the Mail Merge Project
+- Day 25 - Intermediate - Working with CSV Data and the Pandas Library
+  - Project: The United States Game

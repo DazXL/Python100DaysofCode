@@ -1,5 +1,5 @@
-# This is the second part of the Snake Game using everything learned until now
-# The project is finished
+# This Snake Game Improved
+#There is a high score that is saved to an external file so it can be perpetual
 # The input delay is terrible btw
 
 from turtle import Screen
@@ -40,15 +40,16 @@ while game_on:
     # Detect collision with wall
 
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() < -280 or snake.head.ycor() > 280:
-        game_on = False
-        score.game_over()
+        score.reset() #changed game over to reset
+        snake.reset() #reset snake to the center
+        food.refresh()
 
     # Detect collision with tail
 
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
-            game_on = False
-            score.game_over()
-
+            score.reset() #changed game over to reset
+            snake.reset() #reset snake to the center
+            food.refresh()
 
 screen.exitonclick()
