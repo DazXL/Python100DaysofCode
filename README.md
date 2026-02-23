@@ -51,3 +51,5 @@
   - Project: Snake Improved and the Mail Merge Project
 - Day 25 - Intermediate - Working with CSV Data and the Pandas Library
   - Project: The United States Game
+- Day 26 - Intermediate - List Comprehension and the NATO Alphabet
+  - Project: Nato Phonetic Alphabet
