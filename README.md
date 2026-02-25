@@ -53,3 +53,5 @@
   - Project: The United States Game
 - Day 26 - Intermediate - List Comprehension and the NATO Alphabet
   - Project: Nato Phonetic Alphabet
+- Day 27 - Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
+  - Project: Mile to Km Converter
