@@ -18,8 +18,6 @@ timer = None
 
 def reset_timer():
     window.after_cancel(timer)
-    canvas.itemconfig(timer_text, text="00:00")
-    timer_label.config(text="Timer", fg=GREEN)
     checkmark_label.config(text="")
     global reps
     reps = 0
@@ -39,10 +37,8 @@ def start_timer():
         count_down(long_break_sec)
     elif reps % 2 == 0:
         count_down(short_break_sec)
-        timer_label.config(text="Short Break", fg=PINK)
     else:
         count_down(work_sec)
-        timer_label.config(text="Work", fg=GREEN)
 
 
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- #
