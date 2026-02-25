@@ -55,3 +55,5 @@
   - Project: Nato Phonetic Alphabet
 - Day 27 - Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
   - Project: Mile to Km Converter
+- Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+  - Project: Pomodoro GUI Application
