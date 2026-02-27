@@ -57,3 +57,7 @@
   - Project: Mile to Km Converter
 - Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
   - Project: Pomodoro GUI Application
+- Day 29 - Intermediate - Building a Password Manager GUI app with Tkinter
+  - Project: Password Manager GUI Application
+- Day 30 - Intermediate - Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+  - Project: Password Manager GUI Application Improved
