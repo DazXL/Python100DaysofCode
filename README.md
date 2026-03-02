@@ -61,3 +61,5 @@
   - Project: Password Manager GUI Application
 - Day 30 - Intermediate - Intermediate - Errors, Exceptions and JSON Data: Improving the Password
   - Project: Password Manager GUI Application Improved
+- Day 31 - Intermediate - Flash Card App Capstone Project
+  - Project: Flash Card App
