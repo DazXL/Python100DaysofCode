@@ -63,3 +63,5 @@
   - Project: Password Manager GUI Application Improved
 - Day 31 - Intermediate - Flash Card App Capstone Project
   - Project: Flash Card App
+- Day 32 - Intermediate - Send Email (smtplib) & Manage Dates(datetime)
+  - Project: Automated Birthday Wisher
