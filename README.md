@@ -65,3 +65,5 @@
   - Project: Flash Card App
 - Day 32 - Intermediate - Send Email (smtplib) & Manage Dates(datetime)
   - Project: Automated Birthday Wisher
+- Day 33 - Intermediate - API Endpoints & API Parameters
+  - Project: ISS(the International Space Station) Overhead Notifier
