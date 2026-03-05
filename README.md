@@ -67,3 +67,5 @@
   - Project: Automated Birthday Wisher
 - Day 33 - Intermediate - API Endpoints & API Parameters
   - Project: ISS(the International Space Station) Overhead Notifier
+- Day 34 - Intermediate - Intermediate - API Practice - Creating a GUI Quiz App
+  - Project: GUI Quiz App (from Day 17 Quiz Project)
