@@ -69,3 +69,5 @@
   - Project: ISS(the International Space Station) Overhead Notifier
 - Day 34 - Intermediate - Intermediate - API Practice - Creating a GUI Quiz App
   - Project: GUI Quiz App (from Day 17 Quiz Project)
+- Day 35 - Intermediate - Keys, Authentication & Environment Variables.
+  - Project: Sending a rain alert SMS using APIs (task 3)
