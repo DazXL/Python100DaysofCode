@@ -71,3 +71,5 @@
   - Project: GUI Quiz App (from Day 17 Quiz Project)
 - Day 35 - Intermediate - Keys, Authentication & Environment Variables.
   - Project: Sending a rain alert SMS using APIs (task 3)
+- Day 36 - Intermediate - Stock Trading News Alert Project
+  - Project: Stock Trading News Alert
