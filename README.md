@@ -73,3 +73,5 @@
   - Project: Sending a rain alert SMS using APIs (task 3)
 - Day 36 - Intermediate - Stock Trading News Alert Project
   - Project: Stock Trading News Alert
+- Day 37 - Intermediate - Habit Tracking Project: API Post Requests & Headers
+  - Project: Habit Tracker
