@@ -75,3 +75,5 @@
   - Project: Stock Trading News Alert
 - Day 37 - Intermediate - Habit Tracking Project: API Post Requests & Headers
   - Project: Habit Tracker
+- Day 38 - Intermediate -  Workout Tracking Using Google Sheets
+  - Project: Workout Tracking
