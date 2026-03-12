@@ -77,3 +77,7 @@
   - Project: Habit Tracker
 - Day 38 - Intermediate -  Workout Tracking Using Google Sheets
   - Project: Workout Tracking
+- Day 39 - Intermediate - Capstone Project Part 1 (skipped due to API shutting down)
+  - Project: Flight Deal Finder (part 1)
+- Day 40 - Intermediate - Capstone Project Part 2 (skipped due to API shutting down)
+  - Project: Flight Deal Finder (part 2)
