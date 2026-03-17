@@ -81,3 +81,7 @@
   - Project: Flight Deal Finder (part 1)
 - Day 40 - Intermediate - Capstone Project Part 2 (skipped due to API shutting down)
   - Project: Flight Deal Finder (part 2)
+- Day 41 - Web Foundation - Introduction to HTML
+  - Project: Movie Ranking
+- Day 42 - Web Foundation - Intermediate HTML
+  - Project: Birthday Invite Website
