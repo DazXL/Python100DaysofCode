@@ -85,3 +85,5 @@
   - Project: Movie Ranking
 - Day 42 - Web Foundation - Intermediate HTML
   - Project: Birthday Invite Website
+- Day 43 - Web Foundation - Introduction to CSS
+  - Project: Colour Vocab Website
