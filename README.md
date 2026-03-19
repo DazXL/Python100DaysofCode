@@ -87,3 +87,5 @@
   - Project: Birthday Invite Website
 - Day 43 - Web Foundation - Introduction to CSS
   - Project: Colour Vocab Website
+- Day 44 - Web Foundation - Intermediate CSS
+  - Project: Motivational Poster Website
