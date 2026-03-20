@@ -89,3 +89,5 @@
   - Project: Colour Vocab Website
 - Day 44 - Web Foundation - Intermediate CSS
   - Project: Motivational Poster Website
+- Day 45 - Intermediate - Web Scraping with Beautiful Soup
+  - Project: 100 movies to watch Project
