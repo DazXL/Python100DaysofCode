@@ -5,3 +5,5 @@
 .env
 .env.local
 .env.*.local
+/Day 46/Musical Time Machine Project/token.txt
+/Day 46/Musical Time Machine Project/.cache
