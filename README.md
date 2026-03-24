@@ -91,3 +91,7 @@
   - Project: Motivational Poster Website
 - Day 45 - Intermediate - Web Scraping with Beautiful Soup
   - Project: 100 movies to watch Project
+- Day 46 - Intermediate - Create a Spotify Playlist using the Musical Time Machine
+  - Project: The Musical Time Machine
+- Day 47 - Intermediate - Create an Automated Amazon Price Tracker
+  - Project: Amazon Price Tracker
