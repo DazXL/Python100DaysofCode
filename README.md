@@ -95,5 +95,5 @@
   - Project: The Musical Time Machine
 - Day 47 - Intermediate - Create an Automated Amazon Price Tracker
   - Project: Amazon Price Tracker
-- Day 48 - Interrmediate - Selenium Webdriver Browser and Game Playing Bot
+- Day 48 - Intermediate - Selenium Webdriver Browser and Game Playing Bot
   - Project: Automated Game Playing Bot
