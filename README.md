@@ -97,3 +97,5 @@
   - Project: Amazon Price Tracker
 - Day 48 - Intermediate - Selenium Webdriver Browser and Game Playing Bot
   - Project: Automated Game Playing Bot
+- Day 49 - Intermediate - Automating your Exercise Routine at the Gym
+  - Project: Automated Gym Booking

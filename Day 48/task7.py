@@ -1,6 +1,5 @@
 #Task 7 is a challenge to fill a form using selenium
 from selenium import webdriver
-from selenium.webdriver.common import keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
