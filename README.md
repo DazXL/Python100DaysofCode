@@ -99,3 +99,5 @@
   - Project: Automated Game Playing Bot
 - Day 49 - Intermediate - Automating your Exercise Routine at the Gym
   - Project: Automated Gym Booking
+- Day 50 - Intermediate - Intermediate - Auto tinder Swiping Bot
+  - Project: Tinder Auto Swipe Bot
