@@ -41,7 +41,7 @@ class InternetSpeedTwitterBot:
         print(f"current upload speed:{self.up}")
         return self.down, self.up
         pass
-    #The script was suposed to send a tweet to the ISP if the speed was bellow the ideal but x.com API became a paid feature
+    #The script was supposed to send a tweet to the ISP if the speed was bellow the ideal but x.com API became a paid feature
     def tweet_at_provider(self):
         self.driver.get('https://twitter.com/i/flow/login')
 

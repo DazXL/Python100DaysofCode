@@ -63,23 +63,23 @@
   - Project: Password Manager GUI Application Improved
 - Day 31 - Intermediate - Flash Card App Capstone Project
   - Project: Flash Card App
-- Day 32 - Intermediate - Send Email (smtplib) & Manage Dates(datetime)
+- Day 32 - Intermediate+ - Send Email (smtplib) & Manage Dates(datetime)
   - Project: Automated Birthday Wisher
-- Day 33 - Intermediate - API Endpoints & API Parameters
+- Day 33 - Intermediate+ - API Endpoints & API Parameters
   - Project: ISS(the International Space Station) Overhead Notifier
-- Day 34 - Intermediate - Intermediate - API Practice - Creating a GUI Quiz App
+- Day 34 - Intermediate+ - Intermediate - API Practice - Creating a GUI Quiz App
   - Project: GUI Quiz App (from Day 17 Quiz Project)
-- Day 35 - Intermediate - Keys, Authentication & Environment Variables.
+- Day 35 - Intermediate+ - Keys, Authentication & Environment Variables.
   - Project: Sending a rain alert SMS using APIs (task 3)
-- Day 36 - Intermediate - Stock Trading News Alert Project
+- Day 36 - Intermediate+ - Stock Trading News Alert Project
   - Project: Stock Trading News Alert
-- Day 37 - Intermediate - Habit Tracking Project: API Post Requests & Headers
+- Day 37 - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
   - Project: Habit Tracker
-- Day 38 - Intermediate -  Workout Tracking Using Google Sheets
+- Day 38 - Intermediate+ -  Workout Tracking Using Google Sheets
   - Project: Workout Tracking
-- Day 39 - Intermediate - Capstone Project Part 1 (skipped due to API shutting down)
+- Day 39 - Intermediate+ - Capstone Project Part 1 (skipped due to API shutting down)
   - Project: Flight Deal Finder (part 1)
-- Day 40 - Intermediate - Capstone Project Part 2 (skipped due to API shutting down)
+- Day 40 - Intermediate+ - Capstone Project Part 2 (skipped due to API shutting down)
   - Project: Flight Deal Finder (part 2)
 - Day 41 - Web Foundation - Introduction to HTML
   - Project: Movie Ranking
@@ -89,17 +89,19 @@
   - Project: Colour Vocab Website
 - Day 44 - Web Foundation - Intermediate CSS
   - Project: Motivational Poster Website
-- Day 45 - Intermediate - Web Scraping with Beautiful Soup
+- Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
   - Project: 100 movies to watch Project
-- Day 46 - Intermediate - Create a Spotify Playlist using the Musical Time Machine
+- Day 46 - Intermediate+ - Create a Spotify Playlist using the Musical Time Machine
   - Project: The Musical Time Machine
-- Day 47 - Intermediate - Create an Automated Amazon Price Tracker
+- Day 47 - Intermediate+ - Create an Automated Amazon Price Tracker
   - Project: Amazon Price Tracker
-- Day 48 - Intermediate - Selenium Webdriver Browser and Game Playing Bot
+- Day 48 - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
   - Project: Automated Game Playing Bot
-- Day 49 - Intermediate - Automating your Exercise Routine at the Gym
+- Day 49 - Intermediate+ - Automating your Exercise Routine at the Gym
   - Project: Automated Gym Booking
-- Day 50 - Intermediate - Auto tinder Swiping Bot
+- Day 50 - Intermediate+ - Auto tinder Swiping Bot
   - Project: Tinder Auto Swipe Bot
-- Day 51 - Intermediate - Internet Speed Twitter Complaint Bot
+- Day 51 - Intermediate+ - Internet Speed Twitter Complaint Bot
   - Project: Twitter Bot that complain to the ISP
+- Day 52 - Intermediate+ - Instagram Follower Bot
+  - Project: Instagram Auto follow Bot (Try at your own risk)
