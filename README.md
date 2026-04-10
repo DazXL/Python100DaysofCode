@@ -105,3 +105,5 @@
   - Project: Twitter Bot that complain to the ISP
 - Day 52 - Intermediate+ - Instagram Follower Bot
   - Project: Instagram Auto follow Bot (Try at your own risk)
+- Day 53 - Intermediate+ - Web Scraping Capstone - Data Entry Job Automation
+  - Project: Data Entry Job Automation Capstone Project
