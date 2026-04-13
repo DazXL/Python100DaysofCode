@@ -107,3 +107,5 @@
   - Project: Instagram Auto follow Bot (Try at your own risk)
 - Day 53 - Intermediate+ - Web Scraping Capstone - Data Entry Job Automation
   - Project: Data Entry Job Automation Capstone Project
+- Day 54 - Intermediate+ - Introduction to Web Development with **Flask**
+  - Project: Your own Python Decorator
