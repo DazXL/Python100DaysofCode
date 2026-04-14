@@ -109,3 +109,5 @@
   - Project: Data Entry Job Automation Capstone Project
 - Day 54 - Intermediate+ - Introduction to Web Development with **Flask**
   - Project: Your own Python Decorator
+- Day 55 - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
+  - Project: Higher Lower Game
