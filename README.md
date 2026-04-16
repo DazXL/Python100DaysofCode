@@ -111,3 +111,5 @@
   - Project: Your own Python Decorator
 - Day 55 - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
   - Project: Higher Lower Game
+- Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
+  - Project: Name Card
