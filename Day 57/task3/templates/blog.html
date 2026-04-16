@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+    {% for blog_post in posts: %}
+        {% if blog_post["id"] == 2: %} <!-- can be removed to show all posts-->
+        <h1>{{ blog_post["title"] }}</h1>
+        <h2>{{ blog_post["subtitle"] }}</h2>
+        <p>{{ blog_post["body"] }}</p>
+        {% endif %} <!-- can be removed to show all posts-->
+    {% endfor %}
+    <p><a href="{{ url_for('home') }}">Go Home</a></p>
+</body>
+<footer>
+    <p>Copyright {{ year }}. Built by DAZXL at Home. </p>
+</footer>
+</html>

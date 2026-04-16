@@ -113,3 +113,5 @@
   - Project: Higher Lower Game
 - Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
   - Project: Name Card
+- Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
+  - Project: Capstone Project Part1 - Templating
