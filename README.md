@@ -115,3 +115,5 @@
   - Project: Name Card
 - Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
   - Project: Capstone Project Part1 - Templating
+- Day 58 - Web Foundation Bootstrap
+  - Project: Startup Website for TinDog
