@@ -117,3 +117,5 @@
   - Project: Capstone Project Part1 - Templating
 - Day 58 - Web Foundation Bootstrap
   - Project: Startup Website for TinDog
+- Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
+  - Project: Capstone Project Part 2 - Adding Styling
